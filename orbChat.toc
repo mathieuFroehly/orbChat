@@ -1,0 +1,12 @@
+## Interface: 80200
+## Title: orbChat
+## Notes: Basic improvements for the chat.
+## Author: Orbey
+## Version: 1.0.0
+
+locales/en.lua
+locales/fr.lua
+locales/de.lua
+locales/it.lua
+locales/es.lua
+main.lua
