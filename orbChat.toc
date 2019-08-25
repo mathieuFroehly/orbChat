@@ -1,4 +1,4 @@
-## Interface: 80200
+## Interface: 11302
 ## Title: orbChat
 ## Notes: Basic improvements for the chat.
 ## Author: Orbey
